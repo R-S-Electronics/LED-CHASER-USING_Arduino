@@ -1,3 +1,8 @@
+/*Program for LED Chaser
+ * ~~~ R. S. Electronics ~~~
+ * https://www.youtube.com/channel/UC_Jm37Vgb58krva8AG1ByMg
+ */
+
 #define led1 13
 #define led2 12
 #define led3 11
